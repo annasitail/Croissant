@@ -1,3 +1,21 @@
 body {
     background-color: aliceblue;
+    text-align: center;
+}
+
+h1 {
+    padding: 10px;
+    background-color: rgba(123, 204, 207, 0.5);
+}
+
+img {
+    width: 500px;
+    margin: 10px auto;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgba(123, 204, 207, 0.5);
 }
